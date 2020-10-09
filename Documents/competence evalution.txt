@@ -1,0 +1,29 @@
+----------------- Détail de l’organisation de l’épreuve --------------------
+1 - réaliser Deux dossiers
+	1 le (DP) dossier Officiel et obligatoire à compléter (fichier disponible en ligne)
+	2 le Dossier projet (hors annexes est de 30 à 35 pages)
+
+2 - remettre 10 jours avant l'examen un résumer du projet en français de 20 lignes
+	remettre 1 jour avant l'examen une copie du dossier projet
+
+3 - Orale se compose en 3 parties et se feras avec un support de présentation 
+	1 présentation du projet 00h35 min
+	2 Entretien technique  00h40 min
+	3 Entretien Final 00H15 min
+	----- total 1H30 -----
+
+
+
+
+
+
+------ présentation du projet ---
+Maquetter une application
+Réaliser une interface utilisateur web statique et adaptable
+Développer une interface utilisateur web dynamique
+Réaliser une interface utilisateur avec une solution de gestion de contenu ou e-commerce
+Créer une base de données
+Développer les composants d’accès aux données
+Développer la partie back-end d’une application web ou web mobile
+Élaborer et mettre en œuvre des composants dans une application de gestion de contenu ou e-commerce
+
